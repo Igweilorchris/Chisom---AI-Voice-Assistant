@@ -1,0 +1,8 @@
+{
+  "name": "Chisom - AI Voice Assistant",
+  "description": "A modern, multilingual AI voice assistant for seamless business interactions and smart shopping.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": []
+}
